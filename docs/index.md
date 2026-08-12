@@ -4,7 +4,7 @@
 
 ## 📚 知识库
 
-- [📘 Obsidian 使用指南](10 知识/Obsidian 使用指南.md)
+- [📘 Obsidian 使用指南](90 附件/Obsidian 使用指南.md)
 
 ---
 
